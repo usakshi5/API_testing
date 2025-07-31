@@ -1,1 +1,0 @@
-bearer_token = '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'
